@@ -1,1 +1,2 @@
-print('test')
+a = 'soy lindo'
+b = 'soy feo'
